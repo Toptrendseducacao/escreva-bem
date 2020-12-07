@@ -1,0 +1,1 @@
+Instale as fontes "Big Noodle Titling" antes de abrir o arquivo python!
